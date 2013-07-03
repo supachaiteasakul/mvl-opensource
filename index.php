@@ -24,5 +24,6 @@ defined('_JEXEC') or die('Restricted access');
 <html>
 <body>
 	commit 1
+	new branch v2
 </body>
 </html>
