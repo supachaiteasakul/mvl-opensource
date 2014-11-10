@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content" method="upgrade">
+	<name>plg_content_rating</name>
+	<author>CMSPlugin.com</author>
+	<creationDate>November 2014</creationDate>
+	<copyright>CMSPlugin.com</copyright>
+	<license>GNU/GPL v3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+	<authorEmail>support@cmsplugin.com</authorEmail>
+	<authorUrl>http://www.cmsplugin.com</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_RATING_XML_DESCRIPTION</description>
+	<files>
+		<folder>forms</folder>
+		<folder>language</folder>
+		<filename plugin="rating">rating.php</filename>
+		<filename>index.html</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.plg_content_rating.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_content_rating.sys.ini</language>
+	</languages>
+<config>
+	<fields name="params">
+	</fields>
+</config>
+</extension>

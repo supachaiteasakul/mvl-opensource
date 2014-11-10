@@ -3,9 +3,9 @@
 
 <?php
 /**
- * @version			$Id: $
+ * @version			$Id:$
  * @package			Joomla
- * @subpackage		Module XXX
+ * @subpackage		Extensions Name
  * @copyright		Copyright (C) 2013 Marvelic Engine Co.,Ltd..CMSPlugin.com http://marvelic.co.th All rights reserved.
  * @license			GNU General Public License version 3 or later
  *
